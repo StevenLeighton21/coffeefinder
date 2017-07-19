@@ -1,0 +1,2 @@
+module CoffeefinderHelper
+end

@@ -1,0 +1,3 @@
+class CoffeefinderController < ApplicationController
+	
+end
